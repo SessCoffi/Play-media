@@ -5,7 +5,7 @@ import { AudioProvider } from "./context/audio-context";
 function App() {
   return (
     <AudioProvider>
-      <h1>Music Player</h1>
+      <h1>Music Player !!!</h1>
       <MusicPlayer />
       <AudioList />
     </AudioProvider>
